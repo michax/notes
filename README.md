@@ -14,3 +14,5 @@ http://stackoverflow.com/questions/35411423/how-to-dispatch-a-redux-action-with-
 Based on discussion on redux github issue page, best way is to use higher order reducerd and compose them with actions and bind
 namespace id to those actions.
 https://github.com/reactjs/redux/issues/786
+Forms use similar solution to bind properties to a given form:
+https://github.com/erikras/redux-form
