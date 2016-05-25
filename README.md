@@ -4,7 +4,8 @@ https://github.com/gaearon/react-transform-boilerplate
 # React Big Boy Template
 https://github.com/kriasoft/react-starter-kit/tree/master/src/public
 
-# Redux Effects (Asynch. Actions, could be used for dependency)
+# Redux Asynch. actions
+Also called: Effects. Can be used as base for creating statless dependencies.
 * https://github.com/reactjs/redux/issues/1528
 * https://github.com/yelouafi/redux-saga
 * https://github.com/gaearon/redux-thunk
