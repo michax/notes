@@ -15,7 +15,5 @@ Based on discussion on redux github issue page, best way is to use higher order 
 namespace id to those actions.
 https://github.com/reactjs/redux/issues/786
 Forms use similar solution to bind properties to a given form:
-
-https://github.com/erikras/redux-form
-
-http://stackoverflow.com/questions/36303028/react-redux-displaying-multiple-components-sharing-same-actions-but-with-diff
+* https://github.com/erikras/redux-form
+* http://stackoverflow.com/questions/36303028/react-redux-displaying-multiple-components-sharing-same-actions-but-with-diff
